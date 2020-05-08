@@ -1,5 +1,7 @@
 .vscode
 .DS_Store
+**/.ipynb_checkpoints/
+**/__pycache__/*
 # Prerequisites
 *.d
 
